@@ -1,0 +1,17 @@
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+**/**/resources/META-INF/persistence.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
+
+persistence.xml
