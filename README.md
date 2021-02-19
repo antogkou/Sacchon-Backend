@@ -7,8 +7,6 @@ Pfizer Bootcamp Project (Sacchon)
 - [IMP]<br>
 - [SOS]<br>
 
-# You will need to install in the master_with_front branch:
-
 # npm install
 # npm install bootstrap
 # npm install angular-google-charts
